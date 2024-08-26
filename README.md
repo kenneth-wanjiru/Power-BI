@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project provides in-depth insights into the sales performance of AWESOME CHOCOLATES. By analyzing key aspects of the sales data, we uncover trends and patterns that offer a clearer understanding of the company’s performance.
+This project provides in-depth insights into the sales performance of Awesome Chocolates. By analyzing key aspects of the sales data, we uncover trends and patterns that offer a clearer understanding of the company’s performance.
 
 ### Data Source 
 
