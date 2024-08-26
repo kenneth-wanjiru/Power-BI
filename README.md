@@ -2,28 +2,28 @@
 
 ### Project Overview
 
-This data analysis project aims to provide a meaningful insights into the sales performance of a chocolate company called AWESOME CHOCOLATES. By analyzing various aspects of the sales data, we gain a depper understanding of the company's performance.
+This project provides in-depth insights into the sales performance of AWESOME CHOCOLATES. By analyzing key aspects of the sales data, we uncover trends and patterns that offer a clearer understanding of the company’s performance.
 
 ### Data Source 
 
-Sales Data: The primary dataset used for the analysis is collected from https://chandoo.org/wp/ 
+Sales Data: The primary dataset for this analysis was sourced from Chandoo.org. 
 
-### Tools
+### Tools Utilized
 
-- Excel - Data Cleaning and Data Analysis
-- Power BI - Creating Reports
+- Excel: Data Cleaning and Preliminary Analysis
+- Power BI: Interactive Report Creation and Visualization
 
-### Data Cleaning 
+### Data Cleaning Process
 
-In the initial steps, I performed the following tasks:
-- Data loading and inspection
-- Handling missing values
-- Data Cleaning and formatting
+The initial phase focused on preparing the data for analysis, which included:
+- Loading and inspecting data
+- Addressing missing values
+- Cleaning and formatting data for consistency
 
 
 ### Exploratory Data Analysis (EDA)
 
-EDA involved exploring the sales data to answer key questions, such as:
-- What is the overall sales trend?
-- Who is the best sales person?
-- What are the sales amount by countries?
+Through EDA, the project explores critical questions such as:
+- What are the overall sales trends?
+- Who is the top-performing salesperson?
+- How do sales vary across different countries?
